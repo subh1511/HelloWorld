@@ -19,6 +19,7 @@ namespace HelloWorld
                 Salary = 40000
             };
             Console.WriteLine($"{emp.ID} {emp.Name} {emp.Salary}");
+            Console.WriteLine($"Tomorrow is wednesday");
         }
     }
 }
